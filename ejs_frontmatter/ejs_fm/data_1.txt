@@ -1,0 +1,4 @@
+---
+data: I have aaaa pen
+---
+data = <%= data %>
